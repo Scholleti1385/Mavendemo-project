@@ -2,7 +2,7 @@ package com.learnmaven.mavendemo;
 
 /**
  * Hello world!
- *
+ *Hi
  */
 import org.apache.log4j.Logger;
 public class App 
